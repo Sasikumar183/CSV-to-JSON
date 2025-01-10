@@ -1,0 +1,14 @@
+[
+    {
+        "Metric": "Top Product",
+        "Details": "Laptop (Total Sales: $3,500 from 3 units sold)"
+    },
+    {
+        "Metric": "Top Region",
+        "Details": "North (Total Sales: $3,830)"
+    },
+    {
+        "Metric": "Top Customer ID",
+        "Details": "C009 (Highest single purchase: $2,300 for 2 Laptops)"
+    }
+]

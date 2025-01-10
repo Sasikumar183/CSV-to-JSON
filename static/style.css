@@ -1,0 +1,79 @@
+body {
+    font-family: Calibri;
+    background-color: #444444;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.container {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 700px;
+    padding: 20px;
+    height: 70%;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+label {
+    display: block;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+input[type="file"] {
+    margin: 10px 0;
+}
+
+button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.message {
+    margin: 20px 0;
+    color: green;
+    font-weight: bold;
+}
+
+.json-output {
+    text-align: left;
+    background: #f9f9f9;
+    padding: 10px;
+    padding-left: 40px;
+    border-radius: 5px;
+    max-height: 300px;
+    overflow-y: auto;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.download-btn {
+    display: inline-block;
+    margin-top: 20px;
+    background-color: #28a745;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.download-btn:hover {
+    background-color: #218838;
+}

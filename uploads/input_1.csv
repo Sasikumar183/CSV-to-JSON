@@ -1,0 +1,15 @@
+﻿Order ID,Date,Product Name,Quantity,Unit Price,Total Sales,Customer ID,Region
+1001,2025-01-01,Laptop,1,1200,1200,C001,North
+1002,2025-01-02,Smartphone,2,500,1000,C002,East
+1003,2025-01-03,Headphones,3,150,450,C003,West
+1004,2025-01-04,Monitor,1,300,300,C004,South
+1005,2025-01-05,Keyboard,2,75,150,C005,North
+1006,2025-01-06,Mouse,1,25,25,C006,East
+1007,2025-01-07,Desk Chair,1,150,150,C007,West
+1008,2025-01-08,Smartphone,1,550,550,C008,South
+1009,2025-01-09,Laptop,2,1150,2300,C009,North
+1010,2025-01-10,Tablet,3,200,600,C010,East
+1011,2025-01-11,Headphones,1,100,100,C011,West
+1012,2025-01-12,Monitor,2,250,500,C012,South
+1013,2025-01-13,Desk Chair,1,180,180,C013,North
+1014,2025-01-14,Mouse,3,30,90,C014,East
